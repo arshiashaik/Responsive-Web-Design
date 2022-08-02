@@ -14,6 +14,7 @@ body {
   background: #e0dddd;
 }
 
+/* Flexbox can be thought of as having two axes, the main axis and the cross axis. The main axis is determined by the flex-direction property. If flex-direction is set to row or row-reverse, the main axis is horizontal. If flex-direction is set to column or column-reverse, the main axis is vertical.*/
 #gallery {
   display: flex;
   flex-direction: row;
